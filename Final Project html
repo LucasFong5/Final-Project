@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML font size</title>
+</head>
+<body>
+<div class="jumbotron">
+
+<center>
+<h1 style ="color; black; font-size: 75px;</h1>"
+<h1>How to solve a rubrix's cube</h1>
+</center>
+</div>
+
+<h1>Rubrik's Cube Moverment Notations</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwriE0atZiXGBxkcz54co20xzQGg6FgRd2upSYj8DpXs29t47">
+
+<h1>Step one: solve the white cross</h1>
+
+<img src="https://blog.rubiks.com/wp-content/uploads/2018/08/How-to-solve-the-Rubiks-Cube-stage-2.png">
+
+<p> Let's begin with the white face. First we have to make a white cross paying attention to the color of the side center pieces. This step is quite intuitive because there are no solved pieces to watch out for. You can do this for sure with a little practice. Just move the white edges to their places not messing up the ones already fixed.
+
+<h1> Step Two: solve the first layer</h1>
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-07b22ec35a143df863ae5e8bfc6e2115">
+
+<p>Finishing the first layer of the Rubik's Cube is not a big deal. Just like in the previous step, the white corners can be easily completed by an average people intuitively after a short familiarization with the cube. The second step of the beginner's Rubik's Cube tutorial doesn't require long algorithms. You just have to apply a couple of short permutations which you don't even have to memorize.
+<a href="https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/step-1-first-layer-edges/">First Layer algorithms</a>
+
+<h1>Thrid Step: Solve second layer</h1>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlWryBOYZTEDHQ3YiMGjvVWE_1Q4hw374HppfyQRzqGffgVNY1Q">
+
+<p>The first two layers (F2L) of the Rubik's Cube are solved simultaneously rather than individually, reducing the solve time considerably. In the second step of the Fridrich method we solve the four white corner pieces and the middle layer edges attached to them. The 41 possible cases in this step can be solved intuitively but it's useful to have a table of algorithms printed on your desk for guidance.
+To be efficient try not to turn your cube around while solving and look ahead as much as possible. Familiarize with the algorithms so you can do them even with your eyes closed.
+In the beginner's method solving the white corners and the second layer edges were two separate steps, but in this stage you should already know this. In the advanced Fridrich method we're going to pair them in the top layer, then insert them where they belong. The simple example below demonstrates a lucky situation where the red-blue edge piece goes where it belongs while we solve the white corner. If the red-blue corner is somewhere else, then first we need to get it to the back-top position.
+
+<a href="https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/first-two-layers-f2l/">Second Layer algorithms</a>
+
+<h1>Step four: solve the yellow side</h1>
+
+<img src="https://rubiks-cube-solver.com/how-to-solve/12-yellow-cross-solved.png">
+
+<p>So far we have solved two bottom layers and only the yellow face is left. In this fourth stage of our Rubik's tutorial we want to form a yellow cross on the top of the cube. At this point it doesn't matter if the edge pieces don't match the color of the side center pieces. We will switch them in the fifth step.
+There's a short algorithm we have to use: F R U R' U' F'. You can use this algorithm multiple times or memorize different algorithms to solve the yellow cross faster.Besides the solved position there are three other possible patterns: a dot, an "L" shape or a line as illustrated below. In case of the dot you'll have to do the algorithm three times. When there's an "L" shape then twice. See the picture below to understand how this algorithm changes the top layer of the Rubik's Cube. The orientation of the cube is important, so the "L" shape is twisted as illustrated and the line must be horizontal.</p>
+<a href="https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/step-4-yellow-cross/">More algorithms to solve the yellow cross</a>
+
+<h1>Step five: Solve yellow edges</h1>
+
+<img src="https://smmcroberts.net/rubik/images/happy.png">
+
+<p>In the previous step we created a yellow cross on the top of the Rubik's Cube but probably the yellow edges are not all fitting to the colors of the side center pieces. In this stage of the Rubik's Cube solution we have have to fix this by repositioning these cubelets. The algorithm we're going to use switches the front-top and the left-top edges as marked on the image:
+RUR'URU2R'U
+U2 marks a double face turn (180 degrees). When you get to this stage the first thing you have to do is to rotate around the top layer trying to find two edges which have to be switched. Sometimes it can occur that you can't find two pieces to swap next to each other, because you would have to swap two which are facing each other. In this case you'll have to execute the permutation twice, as shown on the second animation.</P>
+<a href="https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/step-5-swap-yellow-edges/"</a>
+</a>
+
+<h1>Step six: Position Yellow Corners</h1>
+
+<img src="https://ruwix.com/pics/solution/15.svg">
+
+<p>We have almost finished solving the Rubik's Cube, only the yellow corners are left. In this step we just have to put them in the right spot, it doesn't matter if the orientation is wrong. We're going to take care about the orientation in the last step.Use the moves below which cycles around three corners in the upper layer counterclockwise swapping the pieces marked on the image:Look for a yellow corner which is on the right position, then hold the cube in your hands with this one in the front-right-top and execute the algorithm below. If the pieces didn't get where they belong do the algorithm one more time. URU'L'UR'U'L</p>
+<a href="https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/step-6-position-yellow-corners/">algorithms</a>
+
+<h1> Step seven: Orient Last Layer</h1>
+
+<img src="https://www.rubiks.com/media/wysiwyg/Mega_menu/UK/the-original-rubiks-cube.jpg">
+
+<p>On this page you can find a detailed description on how to solve the last layer corners of the Rubik's Cube. In the final phase of the solution with the beginner's method we will orient the yellow corner pieces. When you reach this final step all the pieces are on the right spot, you just have to orient the last layer corners which are now on the top of the puzzle.Hold the cube in your hand so the upper piece you want to orient is on the front-right-top corner, then do this algorithm twice or four times until that specific piece is oriented correctly: R'D'RD. When a yellow corner is oriented correctly, turn the top layer only to move another yellow corner piece you want to orient to the front-right-top corner of the cube and repeat R' D' R D again until this specific piece is OK. Keep doing this until your Cube is solved.</p>
+ <a href="https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/orient-yellow-corners-how-to-solve-last-layer-corner/">more algorithms</a>
+
+
+
+
+
+
+</body>
+</html>
