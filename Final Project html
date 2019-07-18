@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML font size</title>
+<style>
+body{
+background-color: silver;
+}
+</style>
 </head>
 <body>
 <div class="jumbotron">
 
 <center>
-<h1 style ="color; black; font-size: 75px;</h1>"
+<h1 style ="color; black; font-size: 75px; background-color: lightblue;</h1>"
 <h1>How to Solve a Rubrix's Cube</h1>
 </center>
 </div>
